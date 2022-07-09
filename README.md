@@ -1,1 +1,1 @@
-# exohood-sc-block-explorer
+# EXO Chain Block Explores (EXOSCAN) 🚧
