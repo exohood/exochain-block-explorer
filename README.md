@@ -1,1 +1,1 @@
-# EXO Chain Block Explores (EXOSCAN) 🚧
+# EXO Chain Block Explorer (EXOSCAN) 🚧
